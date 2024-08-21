@@ -1,4 +1,4 @@
-### Hi there 👋 I am Harsh, a 2nd year mathematics undergrad student at SVNIT, Surat. I love applied mathematics and data science.
+### Hi there 👋 I am Harsh, a 3rd year Mathematics undergrad student at SVNIT, Surat. I love applied mathematics and data science.
 
 - 🔭 I’m currently working on building my problem solving skills
 - 🌱 I’m currently learning statistics and machine learning
